@@ -1,0 +1,60 @@
+mario.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mario.png
+  rotate: false
+  xy: 0, 0
+  size: 90, 180
+  orig: 512, 512
+  offset: 80, 0
+  index: -1
+mario.png
+  rotate: false
+  xy: 90, 0
+  size: 90, 180
+  orig: 512, 512
+  offset: 80, 0
+  index: -1
+mario.png
+  rotate: false
+  xy: 190, 0
+  size: 100, 180
+  orig: 512, 512
+  offset: 80, 0
+  index: -1
+mario.png
+  rotate: false
+  xy: 290, 0
+  size: 100, 180
+  orig: 512, 512
+  offset: 80, 0
+  index: -1
+mario.png
+  rotate: false
+  xy: 400, 0
+  size: 100, 180
+  orig: 512, 512
+  offset: 80, 0
+  index: -1
+mario.png
+  rotate: false
+  xy: 190, 0
+  size: 100, 180
+  orig: 512, 512
+  offset: 80, 0
+  index: -1
+mario.png
+  rotate: false
+  xy: 90, 0
+  size: 90, 180
+  orig: 512, 512
+  offset: 80, 0
+  index: -1
+mario.png
+  rotate: false
+  xy: 0, 0
+  size: 90, 180
+  orig: 512, 512
+  offset: 80, 0
+  index: -1
