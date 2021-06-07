@@ -38,6 +38,7 @@ public class MarioScreen implements Screen {
 		TextureRegion[] leftFrames = new TextureRegion[FRAME_COLS];
 		TextureRegion[] upFrames = new TextureRegion[FRAME_COLS];
 		TextureRegion[] rightFrames = new TextureRegion[FRAME_COLS];
+
 		int index = 0;
 		for (int i = 0; i < FRAME_ROWS; i++) {
 			index = 0;
